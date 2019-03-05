@@ -18,7 +18,7 @@ public class App {
 
 			WebDriver webDriver = new ChromeDriver();
 
-			webDriver.get("Hello World");
+			webDriver.get("www.google.com");
 
 		} catch (Exception e) {
 
